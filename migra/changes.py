@@ -18,7 +18,7 @@ THINGS = [
     "indexes",
     "extensions",
     "privileges",
-    "comments"
+    "comments",
     "collations",
     "rlspolicies",
     "triggers",
